@@ -1,3 +1,23 @@
-h1 {
+body {
+  background-color: rgb(240, 244, 233);
+}
 
+.page-info {
+  text-align: center;
+}
+
+.container {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#runner {
+  text-decoration: none;
+  background-color: rgb(203, 0, 0);
+  color: white;
+  padding: 36px;
+  border-radius: 50%;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.23);
 }
